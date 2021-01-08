@@ -10,7 +10,7 @@ def index():
 
 @app.route('/background')
 def background():
-    return render_template("index.html")
+    return render_template("index02.html")
 
 
 
